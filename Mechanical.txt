@@ -3,3 +3,5 @@ mechanical adda
 
 ring spanner
 allen key
+
+torque wrench
